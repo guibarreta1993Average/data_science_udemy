@@ -1,0 +1,5 @@
+Unofficial Windows Binaries for Python Extension Packages:
+https://www.lfd.uci.edu/~gohlke/pythonlibs
+
+após baixar o wheel desejado use o seguinte comando no Anaconda3:
+$pip install <local do arquivo>\<nome do wheel>
