@@ -1,0 +1,19 @@
+dados discretos:
+ - gráfico de barra
+ - gráfica de setor (sem precisão)
+
+dados contínuos:
+ - gráfico de linha
+
+relação entre duas variáveis:
+ - gráfico de dispersão
+
+distribuição de dados:
+ - histograma
+ - boxplot
+
+
+Referências e dicas de leitura:
+- The Visual Display of Quantitative Information - Edward R. Tufte
+- Information Dashboard Design - Stephen Few
+- Design data visualization - Illinsky and Julie Steele

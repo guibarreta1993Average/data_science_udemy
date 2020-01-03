@@ -1,2 +1,0 @@
-#ctrl + enter para executar uma linha
-# ctrl + alt + up para copiar para baixo
